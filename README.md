@@ -8,3 +8,8 @@ Autolayout is utilized in our design, to specify the locations of buttons, label
 TableView is used to display the restaurants that are search results.
 NavigationController is used to implement our multiple views (The initial background, the search results, and the detail view)
 An API is incorporated to give information on the restaurants. 
+
+
+Backend :
+
+We created a wrapper that made accessing Yelp api simpler. We shortened the url so that it's not necessary to pass in any parameters. 
