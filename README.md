@@ -6,7 +6,7 @@ Often, visitors to Ithaca will have trouble finding restaurants. Our app has a s
 iOS:
 Autolayout is utilized in our design, to specify the locations of buttons, labels, and information.
 TableView is used to display the restaurants that are search results.
-NavigationController is used to implement our multiple views (The initial background, the search results, and the detail view)
+NavigationController is used to implement our multiple views (The initial background, the search results, and the detail view) The UIButton on the background page (named Restaurants), allows navigation into the search view, for instance. 
 An API is incorporated to give information on the restaurants.
 
 
