@@ -1,7 +1,7 @@
 # Gorges
 An app that searches and displays restaurants in Ithaca
 
-Often, visitors to Ithaca will have trouble finding restaurants. Our app has a search feature, where users can search restaurants in Ithaca by name. The app also lists ratings and the price range for convenience.
+Often, visitors to Ithaca will have trouble finding restaurants. Our app has a search feature, where users can search restaurants in Ithaca by name. The app also lists ratings, price range, address, and phone number for convenience. It also links the user to the corresponding Yelp website, for additional information. 
 
 iOS:
 Autolayout is utilized in our design, to specify the locations of buttons, labels, and information.
